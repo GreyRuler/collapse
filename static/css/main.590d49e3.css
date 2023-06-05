@@ -1,0 +1,2 @@
+.collapse-container{outline:.25rem solid #efeceb;padding:1rem}.collapse-container>:not(:last-child){margin-bottom:1rem}.collapse-container .content{height:auto;max-height:1000px;overflow:hidden;transition:max-height 1.5s ease-in-out}.collapse-container .content.collapse{max-height:0}.collapse-container .content p{border:1px solid grey;border-radius:.5rem;padding:1rem}.btn-collapse{background-color:inherit;border:1px solid #0a58ca;border-radius:.5rem;cursor:pointer;padding:.5rem}.btn-collapse:hover{outline:.25rem solid #0a58ca}
+/*# sourceMappingURL=main.590d49e3.css.map*/
